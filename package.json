@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.interapplicationfilecommunication",                              
+  "displayName": "Inter Application File Communication",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Communication between application using file creation and deletion. Not the best idea but it works well in some condition.",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2021_11_03_InterApplicationFileCommunication.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
